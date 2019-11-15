@@ -1,0 +1,1 @@
+ <script src="<?php echo base_url().'assets/libs/bootstrap-datepicker/dist/js/bootstrap-datepicker.min.js';?>"></script>
